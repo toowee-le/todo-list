@@ -10,3 +10,6 @@ I can't recommend highly enough @gordonmzhu's [Watch and Code - Practical JavaSc
 
 Tutorial
 * [Watch and Code - Practical JavaScript](https://watchandcode.com/), Gordon Zhu, [@gordonmzhu](https://twitter.com/gordon_zhu)
+
+Author
+* Tuyet Le, [@toowee_](https://twitter.com/toowee_)
